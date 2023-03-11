@@ -1,0 +1,18 @@
+Olá mundo! 
+
+Aqui neste documento constará alguns links úteis para a criação de uma conta no GitHub, local onde serão armazenados 
+e estarão disponivéis para consulta os seus repositórios.
+
+Para criar uma conta no GitHub:
+https://github.com/
+
+Ao acessar o site da plataforma, basta que se crie uma conta para ter acesso à ferramenta GitHub
+
+Para download do Git Bash:
+https://git-scm.com/downloads
+
+Neste site acima mencionado será possível baixar o Git Bash, que é, em poucas palavras, um terminal utilizado para o versionamento de suas atividades.
+Será por meio do Git Bash que subirá as versões e/ou novos projetos para que seja armazenado no GitHub.
+Esta é uma forma simples de explicar o caminho e para que servem cada um das ferramentas supracitadas. 
+
+Boa sorte e boa jornada de aprendizado, inclusive para mim :)
